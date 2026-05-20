@@ -1,0 +1,18 @@
+# SwiftMove Packers & Movers — Landing Page
+
+A responsive service landing page built for a Packers and Movers company.
+
+## Features
+- Responsive Navbar with smooth scroll
+- Hero section with stats
+- 6 Services section
+- Why Us section
+- How It Works (4-step process)
+- Customer Testimonials
+- Contact form with validation
+- Footer with links
+
+## Tech Used
+- HTML5
+- CSS3 (Flexbox, Grid, CSS Variables)
+- Vanilla JavaScript
